@@ -8,7 +8,7 @@ path_templates = f'{Path(__file__).parent}' + '/templates'
 
 templates = Jinja2Templates(path_templates)
 
-MAIN_PAGE = 'http://127.0.0.1:8000'
+MAIN_PAGE = 'https://13.60.35.192.traefik.me'
 
 
 
